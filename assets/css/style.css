@@ -1,1 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap:100,200,300,400,500,600,700|Nunito:100,200,300,400,500,600,700');
+
+/*..............Heading*/
+
+.image1 {
+    background: url("../images/contenna.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 250px;
+}
+
+.question {
+    font-family: "Nunito", sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    margin: 20px 30px 20px 30px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    letter-spacing: 3px;
+    padding: 0;
+    position: relative;
+}
