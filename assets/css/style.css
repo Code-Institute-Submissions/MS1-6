@@ -2,22 +2,141 @@
 
 /*..............Heading*/
 
-.image1 {
+.cmpyname {
+    font-family: "Roboto+Mono", sans-serif;
+    font-weight: 800;
+    color: burlywood;
+    padding: 0px 5px 5px 5px;
+    margin: 0; 
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.navcontainer {
+    font-size: 0;
+}
+
+#navbar {
+    margin: 0;
+}
+
+#navbar li {
+    font-size: 20px;
+    padding: 0;
+    background-color: white;
+}
+
+.navitem {
+    text-align: center;
+    padding: 0;
+}
+
+.navitem a {
+    width: 100%;
+    text-decoration: none;
+    color: rgb(126, 112, 96);
+}
+
+.navitem span {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+}
+
+.hvr-sweep-to-bottom::before {
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 40px;
+}
+
+.backimage {
     background: url("../images/contenna.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 250px;
+    margin: 3px 0 0 0;
+    padding: 0;
 }
 
-.question {
+.question1 {
     font-family: "Nunito", sans-serif;
     font-weight: 800;
     font-size: 30px;
-    margin: 20px 30px 20px 30px;
+    margin: 0;
     text-align: center;
     color: rgb(255, 255, 255);
     letter-spacing: 3px;
     padding: 0;
     position: relative;
+    max-height: 250px;
+    max-width: 100%;
+}
+
+.question2 {
+    font-family: "Nunito", sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    margin: 0;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    letter-spacing: 3px;
+    padding: 0;
+    position: relative;
+    max-height: 250px;
+    max-width: 100%;
+}
+
+/*..............Section*/
+section {
+    background-color: whitesmoke;
+    margin-top: 3px;
+}
+
+.myimage {
+    width: 100%;
+    border-radius: 50%;
+    padding: 25px 25px 25px 25px;
+    height: 250px;
+}
+
+.mymessage {
+    width: 100%;
+    border-radius: 50%;
+    padding: 25px 25px 25px 25px;
+    height: 250px;
+    text-align: center;
+    color: rgb(126, 112, 96);
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+}
+
+/*..............Footer*/
+
+footer {
+    background-color:rgb(241, 239, 239);
+    color: rgb(126, 112, 96);
+    font-family: "Nunito", sans-serif;
+    font-size: 20px;
+    min-height: 65px;
+    max-height: 120px;
+    margin-top: 3px;
+}
+
+.cname {
+    text-align:center;
+    padding: 12px;
+    font-weight: 600;
+}
+
+.social-links li a i {
+    text-align: center;
+    width: 32px;
+    height: 32px;
+    padding: 14px;
+    color: black;
+    border-radius: 50%;
 }
