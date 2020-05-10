@@ -4,6 +4,11 @@
     font-size: 35px;
 }
 
+.img-fluid {
+    width:100%;
+    height: auto;
+}
+
 /*..............Section*/
 
 section {
@@ -45,7 +50,6 @@ footer {
     background-color:rgba(16, 160, 243, 0.199);
     min-height: 65px;
     max-height: 120px;
-    text-align: center;
 }
 
 .social-links li a i{
@@ -53,4 +57,6 @@ footer {
     height: 20px;
     color: black;
     padding-top: 20px;
+    font-size: 25px;
+    align-items: center;
 }
