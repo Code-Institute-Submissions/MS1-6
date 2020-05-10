@@ -1,151 +1,56 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap:100,200,300,400,500,600,700|Nunito:100,200,300,400,500,600,700');
-
 /*..............Heading*/
 
-.cmpyname {
-    font-family: "Roboto+Mono", sans-serif;
-    font-weight: 800;
-    color: burlywood;
-    padding: 0px 5px 5px 5px;
-    margin: 0; 
-}
-
-.list-inline-item:not(:last-child) {
-    margin: 0;
-}
-
-.navcontainer {
-    font-size: 0;
-}
-
-#navbar {
-    margin: 0;
-}
-
-#navbar li {
-    font-size: 20px;
-    padding: 0;
-    background-color: white;
-}
-
-.navitem {
-    text-align: center;
-    padding: 0;
-}
-
-.navitem a {
-    width: 100%;
-    text-decoration: none;
-    color: black;
-}
-
-.navitem span {
-    display: block;
-    width: 100%;
-    padding-top: 5px;
-    text-align: center;
-    font-family: "Nunito", sans-serif;
-}
-
-.hvr-sweep-to-bottom::before {
-    background-color: rgba(0, 0, 0, 0.404);
-    height: 40px;
-}
-
-.backimage {
-    background: url("../images/contenna.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    min-height: 250px;
-    margin: 3px 0 0 0;
-    padding: 0;
-    opacity: 0.8;
-}
-
-.question1 {
-    font-family: "Nunito", sans-serif;
-    font-weight: 800;
-    font-size: 30px;
-    margin: 0;
-    text-align: center;
-    color: rgb(255, 255, 255);
-    letter-spacing: 3px;
-    padding: 0;
-    position: relative;
-    max-height: 250px;
-    width: 100%;
-}
-
-.question2 {
-    font-family: "Nunito", sans-serif;
-    font-weight: 800;
-    font-size: 30px;
-    margin: 0;
-    text-align: center;
-    color: rgb(255, 255, 255);
-    letter-spacing: 3px;
-    padding: 0;
-    position: relative;
-    max-height: 250px;
-    width: 100%;
+.navbar-brand {
+    font-size: 35px;
 }
 
 /*..............Section*/
+
 section {
     background-color: whitesmoke;
-    margin-top: 3px;
 }
 
-.myimage {
+.img-thumbnail {
+    height: 80%;
     width: 100%;
-    border-radius: 50%;
-    padding: 25px 25px 25px 25px;
-    margin-top: 50px;
+    margin: 30px 0 30px 0;
+}
+
+.myquestion {
+    width: 100%;
+    padding: 0;
+    margin: 30px 20px 0px 10px;
     height: auto;
-    border: 0.5px solid black;
-    background-color: rgba(222, 184, 135, 0.233);
-    transform: rotateX(20deg);
-    transform: rotateY(-20deg);
+    text-align: center;
+    color: black;
+    font-weight: 650;
+    font-size: 30px;
 }
 
 .mymessage {
     width: 100%;
-    padding: 25px 25px 25px 25px;
-    margin: 100px 50px 100px 0px;
+    padding: 0;
+    margin: 30px 20px 30px 10px;
     height: auto;
     text-align: center;
     color: black;
-    font-family: "Nunito", sans-serif;
-    font-weight: 550;
+    font-weight: 350;
     font-style: italic;
+    font-size: 25px;
 }
 
 /*..............Footer*/
 
 footer {
-    background-color:rgba(222, 184, 135, 0.671);
-    color: black;
-    font-family: "Nunito", sans-serif;
-    font-size: 20px;
+    background-color:rgba(16, 160, 243, 0.199);
     min-height: 65px;
     max-height: 120px;
-    margin-top: 3px;
-}
-
-.cname {
-    text-align:center;
-    padding: 12px;
-    font-weight: 600;
-}
-
-.col-sm-7 {
     text-align: center;
 }
 
 .social-links li a i{
     width: 40px;
-    height: 40px;
-    padding: 14px;
+    height: 20px;
     color: black;
+    padding-top: 20px;
 }
