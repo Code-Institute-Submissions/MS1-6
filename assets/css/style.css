@@ -65,12 +65,6 @@ footer {
     align-items: center;
 }
 
-/*..............Contact Me*/
-
-.projectcontactform {
-    padding:20px;
-}
-
 /*..............Portfolio*/
 
 .table {
@@ -80,3 +74,18 @@ footer {
 .graphimage {
     margin: 40px 0 40px 0;
 }
+
+/*..............Services*/
+
+.services {
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+/*..............Contact Me*/
+
+.projectcontactform {
+    padding:20px;
+}
+
