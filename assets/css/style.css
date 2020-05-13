@@ -6,9 +6,9 @@
 
 /*..............Homepage Industrial Image*/
 
-.img-fluid {
-    width:100%;
-    height: 100%;
+.industrialimage {
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 /*..............Section*/
@@ -28,7 +28,7 @@ section {
 .myquestion {
     width: 100%;
     padding: 0;
-    margin: 30px 25px 0px 25px;
+    margin: 30px 25px 30px 25px;
     height: auto;
     text-align: center;
     color: black;
@@ -39,7 +39,7 @@ section {
 .mymessage {
     width: 100%;
     padding: 0;
-    margin: 30px 25px 30px 25px;
+    margin: 30px 25px 0px 25px;
     height: auto;
     text-align: center;
     color: black;
