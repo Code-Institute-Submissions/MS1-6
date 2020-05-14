@@ -4,11 +4,8 @@
     font-size: 35px;
 }
 
-/*..............Homepage Industrial Image*/
-
-.industrialimage {
-    padding-left: 0px;
-    padding-right: 0px;
+.carousel-item img {
+    max-height: 500px;
 }
 
 /*..............Section*/
@@ -30,7 +27,7 @@ section {
     padding: 0;
     margin: 30px 25px 30px 25px;
     height: auto;
-    text-align: center;
+    text-align: left;
     color: black;
     font-weight: 650;
     font-size: 30px;
@@ -41,7 +38,7 @@ section {
     padding: 0;
     margin: 30px 25px 0px 25px;
     height: auto;
-    text-align: center;
+    text-align: left;
     color: black;
     font-weight: 350;
     font-style: italic;
@@ -88,4 +85,3 @@ footer {
 .projectcontactform {
     padding:20px;
 }
-

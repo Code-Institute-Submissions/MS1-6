@@ -76,15 +76,13 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Media
 - The photos used in this site were obtained from :
 
-https://freerangestock.com/photos/51293/business-meeting-and-teamwork-concept.html
-
-https://freerangestock.com/photos/83227/producing-good-ideas--ideas-and-innovation-concept-with-copyspa.html
-
 https://unsplash.com/photos/xewrfLD8emE
 
 https://unsplash.com/photos/wnOJ83k8r4w
 
-https://unsplash.com/photos/gXs-mwiXrhA
+https://freerangestock.com/photos/39523/global-logistics-and-freight-concept.html
+
+https://stackoverflow.com/questions/19481334/bootstrap-carousel-width-and-height/19481452
 
 ### Acknowledgements
 
