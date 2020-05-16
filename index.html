@@ -12,14 +12,15 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-primary">
             <a class="navbar-brand" href="index.html">SConsult</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
-                    <a class="nav-item nav-link active" href="#myintro">Home <span class="sr-only">(current)</span></a>
+                <div class="navbar-nav ml-auto">
+                    <a class="nav-item nav-link active" href="index.html">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-item nav-link" href="#myintro">About Us</a>
                     <a class="nav-item nav-link" href="#portfolio">Portfolio</a>
                     <a class="nav-item nav-link" href="#services">Services</a>
                     <a class="nav-item nav-link" href="#contact">Contact</a>
@@ -54,8 +55,8 @@
         </div>
     </header>
 
-    <section>
-        <div class="container-fluid" id="myintro">
+    <section class="introcontainer" id="myintro">
+        <div class="container">
             <div class="row">
                 <div class="col-sm-4">
                     <img src="assets/images/DSC_6470.jpg" alt="myimage" class="img-thumbnail">
@@ -64,8 +65,8 @@
                     <div class="row">
                         <h3 class="mymessage">
                         Hi I am Thinesh, founder of a suply chain consultation company called <span class="font-weight-bolder">SConsult</span>. I am always passionate about the whole supply chain process 
-                        (procurement, inventory and production planning, warehouse and logistic)<br> 
-                        since the beginning of my career and now I am very much interested in<br> sharing the 
+                        (procurement, inventory and production planning, warehouse and logistic)
+                        since the beginning of my career and now I am very much interested in sharing the 
                         knowledge and experience to those need it now.
                         </h3>
                         <h4 class="myquestion">
@@ -78,8 +79,8 @@
         </div>
     </section>
     
-    <section>
-        <div class="container-fluid performance" id="portfolio">
+    <section class="portfoliocontainer" id="portfolio">
+        <div class="container-fluid performance">
             <div class="row">
                 <div class="col-sm-4">
                     <img src="assets/images/graph.png" alt="myimage" class="img-thumbnail graphimage">
@@ -145,8 +146,8 @@
         </div>
     </section>
 
-    <section>
-        <div class="container-fluid" id="services">
+    <section class="servicescontainer" id="services">
+        <div class="container">
             <div class="row">
                 <div class="col">
                     <div>
@@ -198,8 +199,8 @@
         </div>        
     </section>
 
-    <section>
-        <div class="container-fluid" id="contact">
+    <section class="contactcontainer" id="contact">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col">
                     <div>
@@ -241,41 +242,29 @@
         </div>        
     </section>
 
-    <footer class="container-fluid">
+    <footer>
         <div class="row no-gutters">
-                <ul class="list-inline social-links">
-                    <li class="list-inline-item">
-                        <a target="_blank" href="#">
-                            <i class="fa fa-facebook" aria-hidden="true"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a target="_blank" href="#">
-                            <i class="fa fa-twitter" aria-hidden="true"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a target="_blank" href="#">
-                            <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a target="_blank" href="#">
-                            <i class="fa fa-pinterest" aria-hidden="true"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a target="_blank" href="#">
-                            <i class="fa fa-instagram" aria-hidden="true"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a target="_blank" href="#">
-                            <i class="fa fa-youtube" aria-hidden="true"></i>
-                        </a>
-                    </li>
-                </ul>   
-        </div>
+            <div class="col social-links">
+                <a target="_blank" href="#">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a target="_blank" href="#">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a>
+                <a target="_blank" href="#">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>   
+                <a target="_blank" href="#">
+                    <i class="fa fa-pinterest" aria-hidden="true"></i>
+                </a> 
+                <a target="_blank" href="#">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <a target="_blank" href="#">
+                    <i class="fa fa-youtube" aria-hidden="true" ></i>
+                </a>                            
+            </div>
+        </div>    
     </footer>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

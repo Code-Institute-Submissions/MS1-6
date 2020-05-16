@@ -8,13 +8,12 @@
     max-height: 500px;
 }
 
-/*..............Section*/
-
-section {
-    background-color: whitesmoke;
-}
-
 /*..............My Intoduction*/
+
+.introcontainer {
+    background-color: white;
+    padding-top: 20px;
+} 
 
 .img-thumbnail {
     height: 80%;
@@ -45,34 +44,27 @@ section {
     font-size: 25px;
 }
 
-/*..............Footer*/
-
-footer {
-    background-color:rgba(16, 160, 243, 0.199);
-    min-height: 65px;
-    max-height: 120px;
-}
-
-.social-links li a i{
-    width: 40px;
-    height: 20px;
-    color: black;
-    padding-top: 20px;
-    font-size: 25px;
-    align-items: center;
-}
-
 /*..............Portfolio*/
 
+.portfoliocontainer {
+    background-color: whitesmoke;
+    padding-top: 20px;
+}
+
 .table {
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .graphimage {
-    margin: 40px 0 40px 0;
+    margin: 50px 0 40px 0;
 }
 
 /*..............Services*/
+
+.servicescontainer {
+    background-color: white;
+    padding-top: 20px;
+}
 
 .services {
     margin-left: 20px;
@@ -80,8 +72,31 @@ footer {
     font-size: 20px;
 }
 
-/*..............Contact Me*/
+/*..............Contact*/
+
+.contactcontainer {
+    background-color: whitesmoke;
+    padding-top: 20px;
+}
 
 .projectcontactform {
     padding:20px;
+}
+
+/*..............Footer*/
+
+footer {
+    background-color:rgba(16, 160, 243, 0.199);
+    min-height: 65px;
+    max-height: 120px;
+    text-align: center;
+    display: absolute;
+    padding-top: 15px;
+}
+
+.social-links a{
+    color: rgb(0, 7, 10);
+    font-size: 25px;
+    letter-spacing: 15px;
+    padding-left: 0px;
 }
