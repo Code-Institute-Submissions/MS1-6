@@ -1,12 +1,20 @@
-/*..............Heading*/
+/*..............Header*/
 
 .navbar-brand {
     font-size: 35px;
 }
 
 .carousel-item img {
-    max-height: 500px;
+    height: 600px;
+    filter: brightness(70%);
 }
+
+.carousel-caption {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+
 
 /*..............My Intoduction*/
 
@@ -91,6 +99,7 @@ footer {
     max-height: 120px;
     text-align: center;
     display: absolute;
+    bottom: 0;
     padding-top: 15px;
 }
 
