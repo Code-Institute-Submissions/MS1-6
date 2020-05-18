@@ -1,11 +1,11 @@
 # SConsult - A Supply Chain Consultation Company
 
-This site is a testing field for me to
-
-Essentially, this part is your sales pitch.
+This site is an informative site, providing an opportunity for me to share and develop the knowledge of supply chain into a profitable business for both parties, SConsult and the customers.
+The goal of crating this website is to attract any companies that are looking to save some money without jeopardizing the quality of service or products by showcasing SConsult's past projects and achievements.
  
 ## UX
- 
+
+The focus of this website to provide adequate information for anyone looking forward to resolve any supply chain related issue.
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
