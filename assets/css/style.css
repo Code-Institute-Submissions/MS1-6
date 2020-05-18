@@ -57,6 +57,7 @@
 .portfoliocontainer {
     background-color: whitesmoke;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .table {
@@ -72,6 +73,7 @@
 .servicescontainer {
     background-color: white;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .servicetable {
@@ -85,6 +87,7 @@
 .contactcontainer {
     background-color: whitesmoke;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .projectcontactform {

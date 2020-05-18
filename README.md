@@ -82,7 +82,6 @@ https://unsplash.com/photos/wnOJ83k8r4w
 
 https://freerangestock.com/photos/39523/global-logistics-and-freight-concept.html
 
-https://stackoverflow.com/questions/19481334/bootstrap-carousel-width-and-height/19481452
 
 ### Acknowledgements
 
