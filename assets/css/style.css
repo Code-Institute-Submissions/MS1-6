@@ -64,8 +64,10 @@
     margin-top: 20px;
 }
 
+
 .graphimage {
-    margin: 50px 0 40px 0;
+    margin: 40px 0 40px 0;
+    image-rendering: pixelated;/*image rendering taken from https://stackoverflow.com/questions/18677983/how-to-prevent-the-background-image-from-getting-blurry*/
 }
 
 /*..............Services*/

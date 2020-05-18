@@ -81,6 +81,7 @@ https://unsplash.com/photos/xewrfLD8emE
 https://unsplash.com/photos/wnOJ83k8r4w
 
 https://freerangestock.com/photos/39523/global-logistics-and-freight-concept.html
+https://stackoverflow.com/questions/18677983/how-to-prevent-the-background-image-from-getting-blurry
 
 
 ### Acknowledgements
