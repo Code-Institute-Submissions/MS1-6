@@ -62,7 +62,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
     - The project uses **Github** as a platform to build this project where the project is stored and allow to deploy this website using Github pages.
 
 - [Gitpod](https://www.gitpod.io/)
-    - The project uses **Gitpod** to write and save the code for this website deveopment.
+    - The project uses **Gitpod** to write and save the code for this website development.
 
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
     - The project uses **Chrome DevTools** to test the codes that was written in this project.
