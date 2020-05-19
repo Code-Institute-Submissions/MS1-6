@@ -4,6 +4,10 @@
     font-size: 35px;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color:rgb(255, 255, 255);
+}
+
 .carousel-item img {
     height: 600px;
     -webkit-filter: brightness(70%);/*webkit filter property was taken from https://www.w3schools.com/howto/howto_css_image_effects.asp*/

@@ -23,10 +23,9 @@ In the process of designing this website, I started to draft the layouts by hand
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
+
+- Home page - Starting with the navigation bar consist of the company name, SCounsult and the menu items. Clicking on the company name will always direct back to the home page. Added with a carousel picture visualizing multiple images as a representation on the area of expertise of SConsult with caption
 - ...
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
