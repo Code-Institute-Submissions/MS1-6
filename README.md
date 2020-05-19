@@ -89,44 +89,69 @@ In this section, you should mention all of the languages, frameworks, libraries,
     3. Try to submit the form with a proper email address syntax and there is a message appeared as "Please include an @ in the email address".
     4. Try to submit the form with all inputs valid and the submit button works by redirecting back to home page for this project as the submit button was not linked to any server for the moment.
 
-5. Unsolved Issues: Unable to settle it before submission due to the time constraint to figure out the solution.
+6. Unsolved Issues: Unable to settle it before submission due to the time constraint to figure out the solution.
 
     1. The width of header element does not align with the sections and footer which create the white spacing for the sections and footers.
+
     ![Issue1](assets/images/issue1.jpg)
 
     2. When I clicked on the nav item on the section that I want to view, it does not direct me to the header of the section but to the content directly which is not the way I want it to be.
+
     ![Issue2](assets/images/issue2.jpg)
 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+1. Firstly, I created a Github account at (https://github.com/) which then give an access for me to create a repository under my own at (https://github.com/Thineshsoundrajan).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+2. Then, I created a repository for this project at this url;(https://github.com/Thineshsoundrajan/MS1) in which I push all the file of codes that was created in Gitpod.
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+3. In order to publish this project on the web, I need to go to my repository, went to the Settings tab and scrolled down to the Github Pages section. Then, under the Source setting, I selected master branch from the dropdown menu that was available and saved it.
+
+4. Finally, the url for the this project;(https://thineshsoundrajan.github.io/MS1/) was given by Github to be published.
 
 
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
+- The code for the tables was copied from [Bootstrap Tables](https://getbootstrap.com/docs/4.4/content/tables/).
+
+- The code for the forms was copied from [Bootstrap Forms](https://getbootstrap.com/docs/4.4/components/forms/).
+
+- The code for the navigation bars was copied from [Bootstrap Navbar](https://getbootstrap.com/docs/4.4/components/navbar/).
+
+- The code for the carousel image was copied from [Bootstrap Carausel](https://getbootstrap.com/docs/4.4/components/carousel/).
+
+- The code to apply filter to the carousel image was referred from [w3schools.com](https://www.w3schools.com/howto/howto_css_image_effects.asp).
+
+- The template to start this site was copied from [Code-Institute-Org/gitpod-full-template](https://github.com/Code-Institute-Org/gitpod-full-template).
+
+- The template for README.md file was copied from [Code-Institute-Solutions/readme-template](https://github.com/Code-Institute-Solutions/readme-template).
 
 ### Media
+
 - The photos used in this site were obtained from :
 
-https://unsplash.com/photos/xewrfLD8emE
+    - conttenna.jpg image from (https://unsplash.com/photos/xewrfLD8emE).
 
-https://unsplash.com/photos/wnOJ83k8r4w
+    - industrial.jpg image from (https://unsplash.com/photos/wnOJ83k8r4w).
 
-https://freerangestock.com/photos/39523/global-logistics-and-freight-concept.html
+    - airplane.jpg image from (https://freerangestock.com/photos/39523/global-logistics-and-freight-concept.html).
 
-https://www.w3schools.com/howto/howto_css_image_effects.asp
+    - DSC_6470.jpg is my own picture.
 
+    - graph.jpg was created on my own using [WPS Spreadsheet](https://www.wps.com/spreadsheets) and later converting it to picture.
+
+- The social link icon used in this site were obtained from :
+
+    - (https://fontawesome.com/)
+
+
+- Paint application from Microsoft was used to resize all the images used in this website.
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- My mentor, Mr. Adegbenga Adeye for all his advice, enlightment on the Bootstrap usage and  pushing me to improve the layout of the website itself.
+
+- My wife, Kasturi Rajendran and my friend Partiban Ganesh for their opinions on the outcome of the website.
