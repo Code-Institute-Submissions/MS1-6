@@ -1,4 +1,6 @@
-# SConsult - A Supply Chain Consultation Company
+# **SConsult** - A Supply Chain Consultation Company
+
+![AmIResponsive Image](assets/images/AmIResponsive.jpg)
 
 This site is an informative site, providing an opportunity for me to share and develop the knowledge of supply chain into a profitable business for both parties, SConsult and the customers.
 The goal of crating this website is to attract any companies that are looking to save some money without jeopardizing the quality of service or products by showcasing SConsult's past projects and achievements.
@@ -6,12 +8,18 @@ The goal of crating this website is to attract any companies that are looking to
 ## UX
 
 The focus of this website to provide adequate information for anyone looking forward to resolve any supply chain related issue.
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+### User Stories
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+- As a client who is looking for a reputable and competent person/company that can handle a project to reduce the cost for us.
+
+- As a business owner, I am looking for a guy who have experience handling variety of industrial and supply chain projects to visualize the oppurtunity of cost optimizing where ever possible.
+
+- As a General Manager/Managing Director of a manufacturing plant, I would look for an expert in cost optimization field especially in supply chain field with a strong past projects portfolio to hire to improve the cash flow of my company by controlling spending of the company.
+
+### Design Process
+
+In the process of designing this website, I started to draft the layouts by hand (https://github.com/Thineshsoundrajan/MS1/tree/master/drafts) and transferring them wireframes (https://github.com/Thineshsoundrajan/MS1/blob/master/wireframes/wireframes%20MS1.pdf) before start to build the website in Gitpod.
 
 ## Features
 
