@@ -3,23 +3,23 @@
 ![AmIResponsive Image](assets/images/AmIResponsive.jpg)
 
 This site is an informative site, providing an opportunity for me to share and develop the knowledge of supply chain into a profitable business for both parties, SConsult and the customers.
-The goal of crating this website is to attract any companies that are looking to save some money without jeopardizing the quality of service or products by showcasing SConsult's past projects and achievements.
+The goal of creating this website is to attract any companies that are looking to save some money without jeopardizing the quality of service or products by showcasing SConsult's past projects and achievements.
  
 ## UX
 
-The focus of this website to provide adequate information for anyone looking forward to resolve any supply chain related issue.
+The focus of this website is to provide adequate information for anyone looking forward to resolve any supply chain related issue.
 
 ### User Stories
 
 - As a client who is looking for a reputable and competent person/company that can handle a project to reduce the cost for us.
 
-- As a business owner, I am looking for a guy who have experience handling variety of industrial and supply chain projects to visualize the oppurtunity of cost optimizing where ever possible.
+- As a business owner, I am looking for a person who have experience handling variety of industrial and supply chain projects to visualize the oppurtunity of cost optimizing where ever possible.
 
 - As a General Manager/Managing Director of a manufacturing plant, I would look for an expert in cost optimization field especially in supply chain field with a strong past projects portfolio to hire to improve the cash flow of my company by controlling spending of the company.
 
 ### Design Process
 
-In the process of designing this website, I started to draft the layouts by hand (https://github.com/Thineshsoundrajan/MS1/tree/master/drafts) and transferring them wireframes (https://github.com/Thineshsoundrajan/MS1/blob/master/wireframes/wireframes%20MS1.pdf) before start to build the website in Gitpod.
+In the process of designing this website, I started to draft the layouts by hand (https://github.com/Thineshsoundrajan/MS1/tree/master/drafts) and transferring them to wireframes (https://github.com/Thineshsoundrajan/MS1/blob/master/wireframes/wireframes%20MS1.pdf) before start to build the website in Gitpod.
 
 ## Features
 
@@ -81,7 +81,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 3. Mobile: This website has been tested in mobile phone (Samsung Galaxy A8+) where all links to the pages, responsive table and forms and the footer icons are working well. I also tested mobile responsiveness in other models of handphones by using options that is available in Chrome DevTools.
 
-4. I have tested if the website are serving the purpose of the creation by gathering opinions from family, friends and my mentor.
+4. I have tested if the website is serving the purpose of the creation by gathering opinions from family, friends and my mentor.
 
 5. Contact form:
     1. Go to the "Contact" page.
